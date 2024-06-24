@@ -2,4 +2,4 @@
 
 This project uses Quarkus and Java 11.
 
-It is code for AWS Lambda to save files meta data on uploading file in Amazon S3.
+It is code for AWS Lambda to save files metadata on uploading file in Amazon S3.
